@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,300&display=swap');
+body{
+    padding: 0px 100px;text-transform: capitalize;background: #ffffff;;;font-family: 'DM Sans', sans-serif;
+}
+nav{
+    display:flex;justify-content: space-between;align-items: center
+}
+.nav-1{
+    display: flex;justify-content: space-around;width: 60%;align-items: center;color: #15143966;
+}
+.nav-2{
+    display: flex;justify-content: space-around;width: 10%;align-items: center;color: #15143966;
+}
+.nav-1>h3{
+    font-weight: 300
+}
+
+span{
+    color:  #1E0E62;
+}
+.heading{
+    display: flex;justify-content: center
+}
+h1{
+    text-align: center;width: 65%;font-size: 58px
+}
+.parent{
+    display: flex;justify-content: center
+}
+.box-img{
+    width: 60%;height: 350px;background-image: url(https://www.riolettcustomaerosols.co.uk/img/slides/2000.webp);background-size: cover;border-radius: 10px
+}
+#playbtn{
+    font-size: 50px;position: relative;top: 47%;left: 47%;color: #EA3223;
+
+}
